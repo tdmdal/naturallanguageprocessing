@@ -4,7 +4,7 @@ title: "Natural Language Processing with Python"
 
 * [Slides](NLP_with_Python.pdf)
 * Python Notebooks
-    1. Natural Language Processing with Python (<a href="requests_library.ipynb" download="requests_library.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Webscrapping/blob/master/requests_library.ipynb) )
+    1. Natural Language Processing with Python (<a href="requests_library.ipynb" download="requests_library.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/naturallanguageprocessing/blob/master/NLP_pipeline.ipynb) )
 
 * Other Resources:   
     1. [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit (free version)](http://www.nltk.org/book/)
