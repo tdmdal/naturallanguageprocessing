@@ -7,9 +7,9 @@ title: "Natural Language Processing with Python"
     1. Natural Language Processing with Python (with output displayed) (<a href="NLP_outputdisplayed.ipynb" download="NLP_outputdisplayed.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/naturallanguageprocessing/blob/master/NLP_outputdisplayed.ipynb) )
     2. Natural Language Processing with Python (clean version) (<a href="NLP_pipeline_clean.ipynb" download="NLP_pipeline_clean.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/naturallanguageprocessing/blob/master/NLP_pipeline_clean.ipynb) )
 * Data 
-    1. venturebeat (<a href="venturebeat.csv" download="venturebeat.csv">Download ) 
-* Other Resources:   
-    1. [Natural Language Processing with Python Beginners](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
+    1. venturebeat (<a href="venturebeat.csv" download="venturebeat.csv">Download</a>)
+* Other Resources 
+    1. [Natural Language Processing for Python Beginners](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
     2. [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit (free version)](http://www.nltk.org/book/)
     3. [Text Mining with R](https://www.tidytextmining.com/)
     4. [Word Embeddings](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html#examples-word2vec-on-game-of-thrones)
